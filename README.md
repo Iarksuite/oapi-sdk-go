@@ -1,2 +1,1 @@
-# oapi-sdk-go
-larksuite oapi sdk by golang
+This is larksuite's Hackerone bug bounty test
